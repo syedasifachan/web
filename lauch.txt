@@ -1,0 +1,12 @@
+package amazon;
+
+public interface jaya {
+	int age=10;
+	string name="NIT";
+	int id=513;
+	public static void main(String[]args)
+	first jaya=new first();
+	jaya id();
+	jaya name();
+}
+}
